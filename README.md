@@ -4,23 +4,25 @@
    React has been a game-changer in the world of web development. It's time to explore the exciting world of hooks. React introduces a plethora of hooks to simplify your component logic, making your code more efficient and maintainable. In this article, we'll delve into 15 new hooks that come with React 18, explaining their usage and providing real-world examples.
 
 ###  Table of Contents
-   
-   1. [useState](#usestate)
-   2. [useReducer](#usereducer)
-   3. [useContext](#usecontext)
-   4. [useEffect](#useeffect)
-   5. [useLayoutEffect](#uselayouteffect)
-   6. [useDebugValue](#usedebugvalue)
-   7. [useRef](#useref)
-   8. [useImperativeHandle](#useImperativeHandle)
-   9. [useCallback](#usecallback)
-   10. [useMemo](#usememo)
-   11. [useLocation](#uselocation)
-   12. [useHistory](#usehistory)
-   13. [useParams](#useparams)
-   14. [useTransition](#usetransition)
-   15. [useDeferredValue](#usedeferredvalue)
-   16. [custom hooks](#custom-hooks)
+
+|   No. | React Hook | 
+|-------| -------------------------------------------------------------------------------------------------------------------------------|
+|   1.  |	[useState](#usestate)				|
+|   2.  |	[useReducer](#usereducer)			|
+|   3.  |	[useContext](#usecontext)			|
+|   4.  |	[useEffect](#useeffect)				|
+|   5.  |	[useLayoutEffect](#uselayouteffect)		|
+|   6.  |	[useDebugValue](#usedebugvalue)			|
+|   7.  |	[useRef](#useref)				|
+|   8.  |	[useImperativeHandle](#useImperativeHandle)	|
+|   9.  |	[useCallback](#usecallback)			|
+|   10. |	[useMemo](#usememo)				|
+|   11. |	[useLocation](#uselocation)			|
+|   12. |	[useHistory](#usehistory)			|
+|   13. |	[useParams](#useparams)				|
+|   14. |	[useTransition](#usetransition)			|
+|   15. |	[useDeferredValue](#usedeferredvalue)		|
+|   16. |	[custom hooks](#custom-hooks)			|
 
 ## Setting Up React Hooks
 
@@ -991,3 +993,21 @@
 	By using this custom hook, you can access and respond to window dimensions in your components to create responsive and dynamic layouts.
 	
 	**[🔝 Back to Top](#table-of-contents)**
+
+##
+### Disclaimer
+
+The information provided in this GitHub repository, including articles, code examples, and documentation, is for educational and informational purposes only. It is intended to offer guidance and insights into working with React hooks and related technologies.
+
+While every effort has been made to ensure the accuracy and reliability of the information provided, it should not be considered as professional advice or as a definitive source. Web development practices and technologies can change rapidly, and it's essential to verify and adapt information to your specific use case.
+
+Users of this repository are encouraged to exercise caution and best practices when using the code, examples, or recommendations. It is advisable to conduct thorough testing and consider the unique requirements and constraints of your projects.
+
+The author(s) and contributors of this repository are not liable for any damages, losses, or undesirable outcomes resulting from the use or misuse of the information and code provided herein. It is the responsibility of the users to use their discretion and make informed decisions when implementing React hooks in their projects.
+
+We encourage users to seek official documentation, consult with experienced developers, and stay up to date with the latest best practices to ensure the success of their React projects.
+
+By accessing and using the content in this repository, you agree to this disclaimer.
+
+**Use the information in this repository at your own risk, and always seek professional guidance when necessary.**
+
